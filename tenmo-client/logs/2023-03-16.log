@@ -1,0 +1,7 @@
+2023-03-16T09:36:20.074807 401 : [no body]
+2023-03-16T09:36:37.09029 401 : [no body]
+2023-03-16T09:37:05.769215 401 : [no body]
+2023-03-16T09:37:36.910816 401 : [no body]
+2023-03-16T09:41:00.696281 401 : [no body]
+2023-03-16T10:28:53.727796 400 : [{"timestamp":"2023-03-16T14:28:53.714+00:00","status":400,"error":"Bad Request","message":"Not enough Funds","path":"/transfers"}]
+2023-03-16T11:03:04.881632 500 : [{"timestamp":"2023-03-16T15:03:04.870+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account... (649 bytes)]
